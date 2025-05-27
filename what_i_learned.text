@@ -1,1 +1,31 @@
+ feature/Laura
 iets
+=======
+ Wat is GitHub?
+GitHub is een platform voor versiebeheer en samenwerking, gebaseerd op Git. Het wordt veel gebruikt door programmeurs en teams om samen aan code te werken.
+
+Wat kun je doen met GitHub?
+Code opslaan en beheren
+Je kunt je projecten (code, scripts, configuratiebestanden) online opslaan in zogeheten repositories.
+
+Versiebeheer bijhouden
+GitHub houdt alle wijzigingen aan je code bij, zodat je altijd terug kunt naar een vorige versie of wijzigingen kunt vergelijken.
+
+Samenwerken met anderen
+Meerdere mensen kunnen tegelijk aan hetzelfde project werken. GitHub helpt om dit gestructureerd en overzichtelijk te doen.
+
+Pull requests maken
+Hiermee stel je wijzigingen voor in een project, die anderen kunnen bekijken, bespreken en goedkeuren voordat ze worden doorgevoerd.
+
+Issues bijhouden
+Je kunt problemen, bugs of nieuwe ideeën vastleggen als issues die anderen kunnen volgen of oplossen.
+
+Automatiseren met GitHub Actions
+Je kunt workflows automatiseren, zoals testen draaien of code automatisch bouwen bij elke wijziging.
+
+Documentatie maken
+Via README-bestanden en Wiki’s kun je documentatie toevoegen aan je project.
+
+Open source bijdragen
+Je kunt bijdragen aan miljoenen open source-projecten of zelf een publiek project starten.
+
